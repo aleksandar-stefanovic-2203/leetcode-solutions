@@ -26,7 +26,7 @@ My solutions to problems from [LeetCode](https://leetcode.com/).
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy       | 0      |
+| Easy       | 1      |
 | Medium     | 1      |
 | Hard       | 0      |
 
@@ -35,6 +35,7 @@ My solutions to problems from [LeetCode](https://leetcode.com/).
 | Problem | Difficulty | Solutions |
 | --- | --- | --- |
 | [1658. Minimum Operations to Reduce X to Zero](./1658-minimum-operations-to-reduce-x-to-zero/README.md) | Medium | [Recursive](./1658-minimum-operations-to-reduce-x-to-zero/README.md#1-recursive-approach), [Index-based recursive](./1658-minimum-operations-to-reduce-x-to-zero/README.md#2-index-based-recursive-approach), [Sliding window](./1658-minimum-operations-to-reduce-x-to-zero/README.md#3-sliding-window-approach) |
+| [3550. Smallest Index With Digit Sum Equal to Index](./3550-smallest-index-with-digit-sum-equal-to-index/README.md) | Easy | [Solution](./3550-smallest-index-with-digit-sum-equal-to-index/README.md#approach) |
 
 ## Structure
 
