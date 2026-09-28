@@ -7,7 +7,7 @@ class Solution:
 
         return sum
 
-    def smallestIndex(self, nums: List[int]) -> int:
+    def smallestIndex(self, nums: list[int]) -> int:
         for i in range(len(nums)):
             if i == self.sumOfDigits(nums[i]):
                 return i
