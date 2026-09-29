@@ -28,7 +28,7 @@ My solutions to problems from [LeetCode](https://leetcode.com/).
 |------------|--------|
 | Easy       | 3      |
 | Medium     | 3      |
-| Hard       | 0      |
+| Hard       | 1      |
 
 ### Solutions
 
@@ -39,6 +39,7 @@ My solutions to problems from [LeetCode](https://leetcode.com/).
 | [1614. Maximum Nesting Depth of the Parentheses](./1614-maximum-nesting-depth-of-the-parentheses/README.md) | Easy | [Solution](./1614-maximum-nesting-depth-of-the-parentheses/README.md#approach) |
 | [1658. Minimum Operations to Reduce X to Zero](./1658-minimum-operations-to-reduce-x-to-zero/README.md) | Medium | [Recursive](./1658-minimum-operations-to-reduce-x-to-zero/README.md#1-recursive-approach), [Index-based recursive](./1658-minimum-operations-to-reduce-x-to-zero/README.md#2-index-based-recursive-approach), [Sliding window](./1658-minimum-operations-to-reduce-x-to-zero/README.md#3-sliding-window-approach) |
 | [1807. Evaluate the Bracket Pairs of a String](./1807-evaluate-the-bracket-pairs-of-a-string/README.md) | Medium | [Linear knowledge search](./1807-evaluate-the-bracket-pairs-of-a-string/README.md#1-linear-knowledge-search), [Hash map with string replacement](./1807-evaluate-the-bracket-pairs-of-a-string/README.md#2-hash-map-with-string-replacement), [Single-pass construction](./1807-evaluate-the-bracket-pairs-of-a-string/README.md#3-single-pass-construction) |
+| [2267. Check if There Is a Valid Parentheses String Path](./2267-check-if-there-is-a-valid-parentheses-string-path/README.md) | Hard | [Recursive](./2267-check-if-there-is-a-valid-parentheses-string-path/README.md#1-recursive-approach), [Set-based dynamic programming](./2267-check-if-there-is-a-valid-parentheses-string-path/README.md#2-set-based-dynamic-programming), [Bitmask dynamic programming](./2267-check-if-there-is-a-valid-parentheses-string-path/README.md#3-bitmask-dynamic-programming) |
 | [3550. Smallest Index With Digit Sum Equal to Index](./3550-smallest-index-with-digit-sum-equal-to-index/README.md) | Easy | [Solution](./3550-smallest-index-with-digit-sum-equal-to-index/README.md#approach) |
 
 ## Structure
