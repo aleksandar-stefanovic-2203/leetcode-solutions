@@ -27,7 +27,7 @@ My solutions to problems from [LeetCode](https://leetcode.com/).
 | Difficulty | Solved |
 |------------|--------|
 | Easy       | 3      |
-| Medium     | 3      |
+| Medium     | 4      |
 | Hard       | 1      |
 
 ### Solutions
@@ -35,6 +35,7 @@ My solutions to problems from [LeetCode](https://leetcode.com/).
 | Problem | Difficulty | Solutions |
 | --- | --- | --- |
 | [1. Two Sum](./1-two-sum/README.md) | Easy | [Brute force](./1-two-sum/README.md#1-brute-force-approach), [Hash map](./1-two-sum/README.md#2-hash-map-approach) |
+| [1111. Maximum Nesting Depth of Two Valid Parentheses Strings](./1111-maximum-nesting-depth-of-two-valid-parentheses-strings/README.md) | Medium | [Depth parity](./1111-maximum-nesting-depth-of-two-valid-parentheses-strings/README.md#1-depth-parity-approach), [Index parity](./1111-maximum-nesting-depth-of-two-valid-parentheses-strings/README.md#2-index-parity-approach) |
 | [1190. Reverse Substrings Between Each Pair of Parentheses](./1190-reverse-substrings-between-each-pair-of-parentheses/README.md) | Medium | [Recursive](./1190-reverse-substrings-between-each-pair-of-parentheses/README.md#1-recursive-approach), [Index-based iterative](./1190-reverse-substrings-between-each-pair-of-parentheses/README.md#2-index-based-iterative-approach), [Wormhole-jump](./1190-reverse-substrings-between-each-pair-of-parentheses/README.md#3-wormhole-jump-approach) |
 | [1614. Maximum Nesting Depth of the Parentheses](./1614-maximum-nesting-depth-of-the-parentheses/README.md) | Easy | [Solution](./1614-maximum-nesting-depth-of-the-parentheses/README.md#approach) |
 | [1658. Minimum Operations to Reduce X to Zero](./1658-minimum-operations-to-reduce-x-to-zero/README.md) | Medium | [Recursive](./1658-minimum-operations-to-reduce-x-to-zero/README.md#1-recursive-approach), [Index-based recursive](./1658-minimum-operations-to-reduce-x-to-zero/README.md#2-index-based-recursive-approach), [Sliding window](./1658-minimum-operations-to-reduce-x-to-zero/README.md#3-sliding-window-approach) |
