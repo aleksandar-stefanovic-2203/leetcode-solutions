@@ -28,7 +28,7 @@ My solutions to problems from [LeetCode](https://leetcode.com/).
 |------------|--------|
 | Easy       | 4      |
 | Medium     | 5      |
-| Hard       | 1      |
+| Hard       | 2      |
 
 ### Solutions
 
@@ -37,6 +37,7 @@ My solutions to problems from [LeetCode](https://leetcode.com/).
 | [1. Two Sum](./1-two-sum/README.md) | Easy | [Brute force](./1-two-sum/README.md#1-brute-force-approach), [Hash map](./1-two-sum/README.md#2-hash-map-approach) |
 | [20. Valid Parentheses](./20-valid-parentheses/README.md) | Easy | [Solution](./20-valid-parentheses/README.md#stack-approach) |
 | [22. Generate Parentheses](./22-generate-parentheses/README.md) | Medium | [Backtracking](./22-generate-parentheses/README.md#solution-backtracking) |
+| [32. Longest Valid Parentheses](./32-longest-valid-parentheses/README.md) | Hard | [Stack-based solution](./32-longest-valid-parentheses/README.md#1-stack-based-solution), [Two-pass counter solution](./32-longest-valid-parentheses/README.md#2-two-pass-counter-solution) |
 | [1111. Maximum Nesting Depth of Two Valid Parentheses Strings](./1111-maximum-nesting-depth-of-two-valid-parentheses-strings/README.md) | Medium | [Depth parity](./1111-maximum-nesting-depth-of-two-valid-parentheses-strings/README.md#1-depth-parity-approach), [Index parity](./1111-maximum-nesting-depth-of-two-valid-parentheses-strings/README.md#2-index-parity-approach) |
 | [1190. Reverse Substrings Between Each Pair of Parentheses](./1190-reverse-substrings-between-each-pair-of-parentheses/README.md) | Medium | [Recursive](./1190-reverse-substrings-between-each-pair-of-parentheses/README.md#1-recursive-approach), [Index-based iterative](./1190-reverse-substrings-between-each-pair-of-parentheses/README.md#2-index-based-iterative-approach), [Wormhole-jump](./1190-reverse-substrings-between-each-pair-of-parentheses/README.md#3-wormhole-jump-approach) |
 | [1614. Maximum Nesting Depth of the Parentheses](./1614-maximum-nesting-depth-of-the-parentheses/README.md) | Easy | [Solution](./1614-maximum-nesting-depth-of-the-parentheses/README.md#approach) |
